@@ -69,3 +69,14 @@ What I Learned
 
 Through this project, I practiced writing SQL queries, analyzing related tables, applying aggregate functions, using joins and subqueries, and translating query results into potential business insights.
 
+
+Project Screenshots
+1. Customer Distribution
+![Customer Distribution](Customer%20distribution.png)
+
+ 2. Order Status Analysis
+![Order Status Analysis](Order%20status%20analysis.png)
+
+3. Product Category Analysis
+![Product Category Analysis](Product%20category%20analysis.png)
+
